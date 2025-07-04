@@ -1,4 +1,22 @@
+<p align="center">
 
+
+Welcome⚡
+--------|
+![](https://media.tenor.com/iVCiM9W7cvYAAAAd/welcome.gif)
+
+
+
+AUTHOR:
+<p align="center">
+ RedEyE | Himel 
+
+</br>
+<p align="center">
+      ⚡Tarmux Zip file cracker⚡
+
+</p>
+  
 # ZipKrack
 ZipKrack is a tool designed to crack the passwords of ZIP files. It offers a simple and effective way to recover passwords used to secure zip archives.
 
