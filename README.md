@@ -14,7 +14,7 @@ ZipKrack is a tool designed to crack the passwords of ZIP files. It offers a sim
 
 `git clone https://github.com/Redeye00007/zipkrack`
 
-`cd ZipKrack`
+`cd zipkrack`
 
 `python3 zipkrack.py`
 
